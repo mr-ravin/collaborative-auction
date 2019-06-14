@@ -1,5 +1,9 @@
 # collaborative-auction
-This repository contains the source codes of our research paper titled: [Addictive Auctions: using lucky-draw and gambling addiction to increase participation during auctioning](https://arxiv.org/pdf/1906.03237.pdf).
+This repository contains the source codes of our research paper titled: Addictive Auctions: using lucky-draw and gambling addiction to increase participation during auctioning. [doi link here](https://doi.org/10.31219/osf.io/darvs)
+
+####  Preprints:
+- [OSF Preprints](https://doi.org/10.31219/osf.io/darvs)
+- [arXiv](https://arxiv.org/pdf/1906.03237.pdf)
 
 Author: [Ravin Kumar](https://mr-ravin.github.io)
 
