@@ -3,7 +3,7 @@ This repository contains the source codes of our research paper titled: Addictiv
 
 ####  Preprints:
 - [OSF Preprints](https://doi.org/10.31219/osf.io/darvs)
-- [arXiv](https://arxiv.org/pdf/1906.03237.pdf)
+- [arXiv](https://arxiv.org/abs/1906.03237)
 
 Author: [Ravin Kumar](https://mr-ravin.github.io)
 
