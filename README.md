@@ -1,8 +1,14 @@
 # collaborative-auction
 This repository contains the source codes of our research paper in economics titled: "Addictive Auctions: using lucky-draw and gambling addiction to increase participation during auctioning".
 
+#### Author: [Ravin Kumar](https://mr-ravin.github.io)
+
 #### Elsevier-SSRN eJournals:
-doi link : 
+
+Doi link :
+
+Research Paper link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488563
+
 - Behavioral & Experimental Economics eJournal.
 - Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
 - Microeconomics: Production, Market Structure & Pricing eJournal.
@@ -11,7 +17,6 @@ doi link :
 - [OSF Preprints](https://doi.org/10.31219/osf.io/darvs)
 - [Cornell University LIbrary, arXiv.org](https://arxiv.org/abs/1906.03237)
 
-#### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
  ### Steps for using the library
 ```python
