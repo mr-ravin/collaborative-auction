@@ -14,8 +14,8 @@ Research Paper link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=348856
 - Microeconomics: Production, Market Structure & Pricing eJournal.
 
 ####  Preprints:
-- [OSF Preprints](https://doi.org/10.31219/osf.io/darvs)
-- [Cornell University LIbrary, arXiv.org](https://arxiv.org/abs/1906.03237)
+- OSF Preprints : https://doi.org/10.31219/osf.io/darvs
+- Cornell University LIbrary, arXiv.org : https://arxiv.org/abs/1906.03237
 
 
  ### Steps for using the library
