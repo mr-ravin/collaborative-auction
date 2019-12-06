@@ -5,15 +5,14 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Elsevier-SSRN eJournals:
 
-Doi link :
-
 Research Paper link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488563
 
 - Behavioral & Experimental Economics eJournal.
 - Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
 - Microeconomics: Production, Market Structure & Pricing eJournal.
 
-####  Preprints:
+####  Earlier Preprints:
+
 - OSF Preprints : https://doi.org/10.31219/osf.io/darvs
 - Cornell University LIbrary, arXiv.org : https://arxiv.org/abs/1906.03237
 
