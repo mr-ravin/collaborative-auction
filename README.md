@@ -35,4 +35,4 @@ pip install coauction
 ```
 In our system candidate_id begins with 1, in dictionary based response.
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+#### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
