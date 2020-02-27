@@ -11,6 +11,15 @@ Research Paper link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=348856
 - Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
 - Microeconomics: Production, Market Structure & Pricing eJournal.
 
+#### Cite as:
+
+```
+Kumar, Ravin, Addictive Auctions: Using Lucky-Draw and Gambling Addiction to Increase Participation During Auctioning 
+(November 17, 2019). Kumar, R., 2019. Addictive Auctions: using lucky-draw and gambling addiction to increase participation 
+during auctioning. arXiv preprint arXiv:1906.03237.. Available at SSRN: https://ssrn.com/abstract=3488563 or 
+http://dx.doi.org/10.2139/ssrn.3488563 
+```
+
 ####  Earlier Preprints:
 
 - OSF Preprints : https://doi.org/10.31219/osf.io/darvs
