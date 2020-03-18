@@ -3,9 +3,13 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Elsevier-SSRN eJournals:
+#### Publication: 2nd December 2019
 
-Research Paper link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488563
+#### Publication link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488563
+
+#### Doi: http://dx.doi.org/10.2139/ssrn.3488563 
+
+#### Elsevier-SSRN eJournals:
 
 - Behavioral & Experimental Economics eJournal.
 - Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
