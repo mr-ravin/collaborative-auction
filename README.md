@@ -5,9 +5,11 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Publication: 18th January 2021.
 
-#### Publication link: https://www.svedbergopen.com/files/1611934756_(5)_IJMRE28112020MTN007_(p_68-74).pdf
+#### Publication Journal: [International Journal of ManagementResearch and Economics](https://www.svedbergopen.com/journals/International-Journal-of-Management-Research-and-Economics/About-the-Journal/)
 
-#### Publication Journal: International Journal of ManagementResearch and Economics  
+#### Publication House: [SvedbergOpen](https://www.svedbergopen.com)
+
+#### Publication link: https://www.svedbergopen.com/files/1611934756_(5)_IJMRE28112020MTN007_(p_68-74).pdf
 
 #### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
 
