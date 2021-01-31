@@ -3,13 +3,15 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication: 2nd December 2019
+#### Publication: 18th January 2021.
 
-#### Publication link : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488563
+#### Publication link: https://www.svedbergopen.com/files/1611934756_(5)_IJMRE28112020MTN007_(p_68-74).pdf
 
-#### Doi: http://dx.doi.org/10.2139/ssrn.3488563 
+#### Publication Journal: International Journal of ManagementResearch and Economics  
 
-#### Elsevier-SSRN eJournals:
+#### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
+
+#### Also available on Elsevier-SSRN eJournals:
 
 - Behavioral & Experimental Economics eJournal.
 - Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
@@ -18,10 +20,8 @@ This repository contains the source codes of our research paper in economics tit
 #### Cite as:
 
 ```
-Kumar, Ravin, Addictive Auctions: Using Lucky-Draw and Gambling Addiction to Increase Participation During Auctioning 
-(November 17, 2019). Kumar, R., 2019. Addictive Auctions: using lucky-draw and gambling addiction to increase participation 
-during auctioning. arXiv preprint arXiv:1906.03237.. Available at SSRN: https://ssrn.com/abstract=3488563 or 
-http://dx.doi.org/10.2139/ssrn.3488563 
+Ravin Kumar (2021). Addictive auctions: Using lucky-draw and gambling addiction toincrease participation during auctioning.
+International Journal of Management Research and Economics. 1(1),68-74.
 ```
 
 ####  Earlier Preprints:
