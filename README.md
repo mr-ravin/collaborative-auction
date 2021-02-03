@@ -22,7 +22,7 @@ This repository contains the source codes of our research paper in economics tit
 #### Cite as:
 
 ```
-Ravin Kumar (2021). Addictive auctions: Using lucky-draw and gambling addiction toincrease participation during auctioning.
+Ravin Kumar (2021). Addictive auctions: Using lucky-draw and gambling addiction to increase participation during auctioning.
 International Journal of Management Research and Economics. 1(1),68-74.
 ```
 
