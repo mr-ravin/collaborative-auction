@@ -1,5 +1,5 @@
 # collaborative-auction
-This repository contains the source codes of our research paper in economics titled: "Addictive Auctions: using lucky-draw and gambling addiction to increase participation during auctioning".
+This repository contains the source codes of our research paper in economics titled: "Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning".
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
@@ -9,7 +9,7 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Publication House: [SvedbergOpen](https://www.svedbergopen.com)
 
-#### Publication link: https://www.svedbergopen.com/files/1611934756_(5)_IJMRE28112020MTN007_(p_68-74).pdf
+#### Publication link: https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf
 
 #### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
 
