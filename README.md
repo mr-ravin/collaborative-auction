@@ -5,7 +5,7 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Publication: 18th January 2021.
 
-#### Publication Journal: [International Journal of ManagementResearch and Economics](https://www.svedbergopen.com/journals/International-Journal-of-Management-Research-and-Economics/About-the-Journal/)
+#### Publication Journal: [International Journal of Management Research and Economics](https://www.svedbergopen.com/journals/International-Journal-of-Management-Research-and-Economics/About-the-Journal/)
 
 #### Publication House: [SvedbergOpen](https://www.svedbergopen.com)
 
