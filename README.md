@@ -11,14 +11,6 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Publication link: https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf
 
-#### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
-
-#### Also available on Elsevier-SSRN eJournals:
-
-- Behavioral & Experimental Economics eJournal.
-- Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
-- Microeconomics: Production, Market Structure & Pricing eJournal.
-
 #### Cite as:
 
 ```
@@ -26,11 +18,18 @@ Ravin Kumar (2021). Addictive auctions: Using lucky-draw and gambling addiction 
 International Journal of Management Research and Economics. 1(1),68-74.
 ```
 
+#### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
+
+#### Also available on Elsevier-SSRN eJournals: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795556
+
+- Behavioral & Experimental Economics eJournal.
+- Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
+- Microeconomics: Production, Market Structure & Pricing eJournal.
+
 ####  Earlier Preprints:
 
 - OSF Preprints : https://doi.org/10.31219/osf.io/darvs
 - Cornell University LIbrary, arXiv.org : https://arxiv.org/abs/1906.03237
-
 
  ### Steps for using the library
 ```python
