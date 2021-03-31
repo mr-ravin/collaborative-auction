@@ -47,7 +47,7 @@ results=coauction.response(total_candidates,bidding_sequence,relation_list,alpha
 ```python
 pip install coauction
 ```
-In our system candidate_id begins with 1, in dictionary based response.
+In our system, the candidate_id begins with 1 in the dictionary based response.
 
 ```python
 Copyright (c) 2019 Ravin Kumar
