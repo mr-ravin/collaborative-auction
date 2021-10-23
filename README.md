@@ -13,6 +13,8 @@ This repository contains the source codes of our research paper in economics tit
 
 #### Publication link: https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf
 
+#### Publication copy: https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf
+
 #### Cite as:
 
 ```
