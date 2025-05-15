@@ -1,39 +1,34 @@
 # collaborative-auction
 This repository contains the source codes of our research paper in economics titled: "Addictive auctions: using lucky-draw and gambling addiction to increase participation during auctioning".
 
-#### Paper Title: Addictive auctions: Using lucky-draw and gambling addiction toincrease participation during auctioning
+**Paper Title**: Addictive auctions: Using lucky-draw and gambling addiction toincrease participation during auctioning
 
-#### Author: [Ravin Kumar](https://mr-ravin.github.io)
+**Author**: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication: 18th January 2021.
+**Publication**: 18th January 2021.
 
-#### Publication Journal: [International Journal of Management Research and Economics](https://www.svedbergopen.com/journals/International-Journal-of-Management-Research-and-Economics/About-the-Journal/)
+**Published Paper**: [click here](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf)
 
-#### Publication House: [SvedbergOpen](https://www.svedbergopen.com)
+**Doi**: [DOI Link of Paper](https://doi.org/10.51483/IJMRE.1.1.2021.68-74))
 
-#### Publication link: https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf
-
-#### Publication copy: https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7.pdf
+**Other Sources**:
+- Published paper: [click here](https://www.svedbergopen.com/files/1612268008_(5)_IJMRE28112020MTN007_(p_68-74).pdf)
+- Published paper (DOI Link): [click here](https://doi.org/10.51483/IJMRE.1.1.2021.68-74))
+- Paper on github.com: [click here](https://mr-ravin.github.io/economist/static/media/AddictiveAuctions.fea57be7e7d2c2b61478.pdf)
+- Paper on Research Gate: [click here](https://www.researchgate.net/publication/349042403_Addictive_auctions_Using_lucky-draw_and_gambling_addiction_to_increase_participation_during_auctioning)
+- Paper on archive.org: [click here-1](https://archive.org/details/addictive-auctions), [click here-2](https://archive.org/details/httpswww.svedbergopen.comfiles1612268008_5_ijmre28112020mtn007_p_68-74.pdf)
+- Preprint on arxiv.org: [click here](https://arxiv.org/abs/1906.03237)
+- Preprint on SSRN: [click here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795556)
+- Preprint on osf.io: [click here](https://osf.io/darvs)
+- Preprint on Research Gate: [click here](https://www.researchgate.net/publication/333671899_Addictive_Auctions_using_lucky-draw_and_gambling_addiction_to_increase_participation_during_auctioning)
+- Github repository (python code): [source code](https://github.com/mr-ravin/collaborative-auction)
 
 #### Cite as:
-
 ```
 Ravin Kumar (2021). Addictive auctions: Using lucky-draw and gambling addiction to increase participation during auctioning.
 International Journal of Management Research and Economics. 1(1),68-74.
 ```
-
-#### Doi: https://doi.org/10.51483/IJMRE.1.1.2021.68-74
-
-#### Also available on Elsevier-SSRN eJournals: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795556
-
-- Behavioral & Experimental Economics eJournal.
-- Microeconomics: Welfare Economics & Collective Decision-Making eJournal.
-- Microeconomics: Production, Market Structure & Pricing eJournal.
-
-####  Earlier Preprints:
-
-- OSF Preprints : https://doi.org/10.31219/osf.io/darvs
-- Cornell University LIbrary, arXiv.org : https://arxiv.org/abs/1906.03237
+---
 
  ### Steps for using the library
 ```python
@@ -53,6 +48,12 @@ pip install coauction
 ```
 In our system, the candidate_id begins with 1 in the dictionary based response.
 
+---
+
+### Conclusion
+Our proposed auction systems have shown potential of increasing the overall participation in auctions leading to increase in the final bidding amount. The combined effect of the addictive nature of gambling system to an auction system helps in increasing the participation of candidates. It also makes auctions more attention gathering and in turn reducing the illegal gambling activities which in turn leads to better law and order establishment.
+
+---
 ```python
 Copyright (c) 2019 Ravin Kumar
 Website: https://mr-ravin.github.io
